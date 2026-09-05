@@ -147,6 +147,7 @@ Maintained by Anthropic — battle-tested, production ready.
 
 | Server | Description | Language | Stars |
 |--------|-------------|----------|-------|
+| [bulkpublish](https://github.com/azeemkafridi/bulkpublish-api) | Approval-first social content adaptation, scheduling, and publishing via MCP and API | TypeScript | ⭐ |
 | [notion](https://github.com/makenotion/notion-sdk-js) | Notion — pages, databases, blocks, search | TypeScript | ⭐⭐⭐⭐⭐ |
 | [slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) | Slack — channels, messages, threads, users | TypeScript | ⭐⭐⭐⭐ |
 | [gmail](https://github.com/BurnySc2/monorepo) | Gmail — read, send, search, manage emails | Python | ⭐⭐⭐ |
