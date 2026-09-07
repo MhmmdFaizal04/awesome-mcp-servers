@@ -170,6 +170,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [sequential-thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) | Dynamic step-by-step problem solving and reasoning | TypeScript | ⭐⭐⭐⭐⭐ |
 | [knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph) | Persistent knowledge graph with entity relationships | TypeScript | ⭐⭐⭐⭐ |
 | [openai](https://github.com/openai/openai-mcp) | OpenAI API — completions, embeddings, images, TTS | TypeScript | ⭐⭐⭐⭐ |
+| [runapi](https://github.com/runapi-ai/mcp) | Run AI image, video, music, audio, and LLM jobs through one MCP server | TypeScript | ⭐⭐⭐ |
 | [orkas-video-studio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Agent-driven video composition, editing, transcription, and optional generation from editable timelines | TypeScript | ⭐⭐⭐ |
 | [langchain](https://github.com/langchain-ai/langchain-mcp-adapters) | LangChain tools as MCP servers | Python | ⭐⭐⭐⭐ |
 | [perplexity](https://github.com/ppl-ai/modelcontextprotocol) | Perplexity AI — real-time web search with AI answers | Python | ⭐⭐⭐⭐ |
