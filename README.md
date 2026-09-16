@@ -174,6 +174,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [langchain](https://github.com/langchain-ai/langchain-mcp-adapters) | LangChain tools as MCP servers | Python | ⭐⭐⭐⭐ |
 | [perplexity](https://github.com/ppl-ai/modelcontextprotocol) | Perplexity AI — real-time web search with AI answers | Python | ⭐⭐⭐⭐ |
 | [context7](https://github.com/upstash/context7) | Up-to-date library documentation for any package | TypeScript | ⭐⭐⭐⭐⭐ |
+| [contextstream](https://github.com/contextstream/mcp-server) | Shared project context for AI coding agents — hosted MCP with code search plus decisions, lessons, and plans | TypeScript | ⭐⭐⭐ |
 | [pieces](https://github.com/pieces-app/pieces-mcp) | Pieces OS — personal code snippets and context | TypeScript | ⭐⭐⭐ |
 | [arxiv](https://github.com/blazickjp/arxiv-mcp-server) | arXiv — search and read research papers | Python | ⭐⭐⭐ |
 | [wikipedia](https://github.com/rudra-ravi/wikipedia-mcp) | Wikipedia — search and retrieve article content | Python | ⭐⭐⭐ |
