@@ -215,6 +215,7 @@ Maintained by Anthropic — battle-tested, production ready.
 
 | Server | Description | Language | Stars |
 |--------|-------------|----------|-------|
+| [statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` | Remote | ⭐ |
 | [alpaca](https://github.com/alpacahq/alpaca-mcp) | Alpaca — stock trading, market data, portfolio | TypeScript | ⭐⭐⭐ |
 | [coinbase](https://github.com/coinbase/agentkit) | Coinbase — crypto prices, wallets, transactions | TypeScript | ⭐⭐⭐ |
 | [polygon](https://github.com/polygon-io/client-python) | Polygon.io — real-time & historical stock data | Python | ⭐⭐⭐ |
