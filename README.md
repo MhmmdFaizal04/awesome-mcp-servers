@@ -166,6 +166,7 @@ Maintained by Anthropic — battle-tested, production ready.
 
 | Server | Description | Language | Stars |
 |--------|-------------|----------|-------|
+| [hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Developer-alpha encrypted, append-only knowledge store with scoped, expiring MCP grants | Rust | ⭐⭐ |
 | [memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) | Persistent knowledge graph — remember across sessions | TypeScript | ⭐⭐⭐⭐⭐ |
 | [sequential-thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) | Dynamic step-by-step problem solving and reasoning | TypeScript | ⭐⭐⭐⭐⭐ |
 | [knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph) | Persistent knowledge graph with entity relationships | TypeScript | ⭐⭐⭐⭐ |
