@@ -217,6 +217,7 @@ Maintained by Anthropic — battle-tested, production ready.
 |--------|-------------|----------|-------|
 | [alpaca](https://github.com/alpacahq/alpaca-mcp) | Alpaca — stock trading, market data, portfolio | TypeScript | ⭐⭐⭐ |
 | [coinbase](https://github.com/coinbase/agentkit) | Coinbase — crypto prices, wallets, transactions | TypeScript | ⭐⭐⭐ |
+| [Invokely MCP Connector](https://github.com/estevecastells/invokely-mcp-connector) | Public MIT JavaScript stdio adapter for [Invokely's hosted official-statistics MCP service](https://invokely.ai/docs); hosted backend source is separate. No-account trial: 25 calls/day/IP; Free account: 500 MCP calls/month. REST data queries require Builder, Pro or prepaid credits. | JavaScript | ⭐⭐ |
 | [polygon](https://github.com/polygon-io/client-python) | Polygon.io — real-time & historical stock data | Python | ⭐⭐⭐ |
 | [yahoo-finance](https://github.com/narumiruna/yfinance-mcp) | Yahoo Finance — quotes, history, fundamentals | Python | ⭐⭐⭐ |
 
