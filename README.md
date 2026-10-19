@@ -213,6 +213,7 @@ Maintained by Anthropic — battle-tested, production ready.
 
 ## Finance & Data
 
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. | TypeScript | ⭐⭐ |
 | Server | Description | Language | Stars |
 |--------|-------------|----------|-------|
 | [alpaca](https://github.com/alpacahq/alpaca-mcp) | Alpaca — stock trading, market data, portfolio | TypeScript | ⭐⭐⭐ |
