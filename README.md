@@ -195,6 +195,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [shopify](https://github.com/shopify/dev-mcp) | Shopify — products, orders, customers, storefront | TypeScript | ⭐⭐⭐⭐ |
 | [hubspot](https://github.com/hubspot/mcp-server) | HubSpot CRM — contacts, deals, companies | TypeScript | ⭐⭐⭐ |
 | [maps-platform](https://github.com/googlemaps/js-maps-mcp) | Google Maps Platform — places, routes, geocoding | TypeScript | ⭐⭐⭐ |
+| [placecall](https://github.com/voygr-tech/placecall) | PlaceCall — hosted voice agent that phones US businesses (bookings, quotes, questions) and returns outcome, transcript and recording | Remote (Streamable HTTP) | ⭐⭐⭐ |
 
 ---
 
