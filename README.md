@@ -101,6 +101,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [browser-use](https://github.com/browser-use/browser-use) | AI-native browser automation agent | Python | ⭐⭐⭐⭐⭐ |
 | [crawl4ai](https://github.com/unclecode/crawl4ai) | AI-optimized web crawler — LLM-friendly output | Python | ⭐⭐⭐⭐⭐ |
 | [firecrawl](https://github.com/mendableai/firecrawl-mcp-server) | Firecrawl API — scrape, crawl, extract structured data | TypeScript | ⭐⭐⭐⭐ |
+| [curlshot](https://github.com/SergiuPogor/curlshot-mcp) | Hosted screenshot API — capture web pages as PNG, JPEG, WebP, PDF or scrolling video | TypeScript | ⭐ |
 | [linkup](https://github.com/LinkupPlatform/python-sdk) | Real-time web search with citations | Python | ⭐⭐⭐ |
 | [tavily](https://github.com/tavily-ai/tavily-mcp) | Tavily search API — AI-optimized web search | TypeScript | ⭐⭐⭐⭐ |
 | [exa](https://github.com/exa-labs/exa-mcp-server) | Exa search — neural + keyword web search | TypeScript | ⭐⭐⭐ |
