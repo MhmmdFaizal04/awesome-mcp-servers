@@ -208,6 +208,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [shell](https://github.com/zed-industries/zed) | Execute shell commands with configurable permissions | TypeScript | ⭐⭐⭐⭐ |
 | [iterm2](https://github.com/ferrislucas/iterm-mcp) | iTerm2 terminal integration — run commands, read output | TypeScript | ⭐⭐⭐ |
 | [windows-cli](https://github.com/SimonB97/win-cli-mcp-server) | Windows command-line tools — cmd, PowerShell | TypeScript | ⭐⭐⭐ |
+| [kilobat](https://github.com/seifip/kilobat-cli) | Local macOS 14+ network diagnostics over stdio MCP; GPL-3.0-only code | Swift | ⭐⭐ |
 
 ---
 
