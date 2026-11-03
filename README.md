@@ -219,6 +219,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [coinbase](https://github.com/coinbase/agentkit) | Coinbase — crypto prices, wallets, transactions | TypeScript | ⭐⭐⭐ |
 | [polygon](https://github.com/polygon-io/client-python) | Polygon.io — real-time & historical stock data | Python | ⭐⭐⭐ |
 | [yahoo-finance](https://github.com/narumiruna/yfinance-mcp) | Yahoo Finance — quotes, history, fundamentals | Python | ⭐⭐⭐ |
+| [sports-odds-mcp](https://github.com/GeminiGeorge22/sports-odds-mcp) | Kambi sportsbook odds (BetRivers, Unibet, Paf and more) with best price per outcome | JavaScript | ⭐ |
 
 ---
 
