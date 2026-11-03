@@ -195,6 +195,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [shopify](https://github.com/shopify/dev-mcp) | Shopify — products, orders, customers, storefront | TypeScript | ⭐⭐⭐⭐ |
 | [hubspot](https://github.com/hubspot/mcp-server) | HubSpot CRM — contacts, deals, companies | TypeScript | ⭐⭐⭐ |
 | [maps-platform](https://github.com/googlemaps/js-maps-mcp) | Google Maps Platform — places, routes, geocoding | TypeScript | ⭐⭐⭐ |
+| [ats-jobs-mcp](https://github.com/GeminiGeorge22/ats-jobs-mcp) | Job boards — new postings since any date from Ashby, Greenhouse, Lever, SmartRecruiters | JavaScript | ⭐ |
 
 ---
 
