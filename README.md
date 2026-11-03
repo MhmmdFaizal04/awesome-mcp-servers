@@ -219,6 +219,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [coinbase](https://github.com/coinbase/agentkit) | Coinbase — crypto prices, wallets, transactions | TypeScript | ⭐⭐⭐ |
 | [polygon](https://github.com/polygon-io/client-python) | Polygon.io — real-time & historical stock data | Python | ⭐⭐⭐ |
 | [yahoo-finance](https://github.com/narumiruna/yfinance-mcp) | Yahoo Finance — quotes, history, fundamentals | Python | ⭐⭐⭐ |
+| [gov-tenders-mcp](https://github.com/GeminiGeorge22/gov-tenders-mcp) | Public tenders, grants and awards — SAM.gov, Grants.gov, USAspending, UK, EU TED, Legistar | JavaScript | ⭐ |
 
 ---
 
