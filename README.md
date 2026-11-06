@@ -219,6 +219,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [coinbase](https://github.com/coinbase/agentkit) | Coinbase — crypto prices, wallets, transactions | TypeScript | ⭐⭐⭐ |
 | [polygon](https://github.com/polygon-io/client-python) | Polygon.io — real-time & historical stock data | Python | ⭐⭐⭐ |
 | [yahoo-finance](https://github.com/narumiruna/yfinance-mcp) | Yahoo Finance — quotes, history, fundamentals | Python | ⭐⭐⭐ |
+| [dchub](https://github.com/azmartone67/dchub-mcp-server) | DC Hub — data-center site selection; Data Center Power Index (DCPI) across 300+ markets (remote HTTPS) | TypeScript | ⭐ |
 
 ---
 
