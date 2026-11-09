@@ -159,6 +159,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [airtable](https://github.com/domdomegg/airtable-mcp-server) | Airtable — bases, tables, records, formulas | TypeScript | ⭐⭐⭐ |
 | [discord](https://github.com/v-3/discordmcp) | Discord — read channels, send messages | TypeScript | ⭐⭐⭐ |
 | [telegram](https://github.com/chigkim/Telegram-MCP) | Telegram — send messages, manage chats | Python | ⭐⭐ |
+| [call-me](https://github.com/radres/call-me) | Phone app and hosted remote MCP server (https://callmemcp.com/mcp) that lets any AI agent ring your phone, read its question aloud and take your spoken answer back as text | JavaScript | ⭐ |
 
 ---
 
