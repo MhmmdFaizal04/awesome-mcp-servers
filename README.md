@@ -195,6 +195,7 @@ Maintained by Anthropic — battle-tested, production ready.
 | [shopify](https://github.com/shopify/dev-mcp) | Shopify — products, orders, customers, storefront | TypeScript | ⭐⭐⭐⭐ |
 | [hubspot](https://github.com/hubspot/mcp-server) | HubSpot CRM — contacts, deals, companies | TypeScript | ⭐⭐⭐ |
 | [maps-platform](https://github.com/googlemaps/js-maps-mcp) | Google Maps Platform — places, routes, geocoding | TypeScript | ⭐⭐⭐ |
+| [OpenAny](https://github.com/openanysi/openany-mcp) | The B2A (business to agent) marketplace — 3,200+ APIs and 168+ AI models; browse free, pay per call | Go | ⭐⭐⭐⭐ |
 
 ---
 
